@@ -48,3 +48,9 @@ This is intentionally the simple half of the funnel. Compared to the hosted acto
 - **Run on a schedule.** This is a script you run by hand. The hosted actor runs on Apify's platform, so it can be put on a recurring schedule (e.g. weekly territory re-scans) without you keeping a machine or cron job running.
 
 For scheduled runs, cross-run lead tracking, and pay-per-event pricing with reliability built in, see the production actor: https://apify.com/stefano_seggio/actor-18-b2b-lead-magnet
+
+This stub is part of the [Delta Registry](https://delta-registry-website.vercel.app) actor fleet.
+
+## License
+
+MIT - see [LICENSE](./LICENSE).
